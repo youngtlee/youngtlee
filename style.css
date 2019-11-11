@@ -15,8 +15,8 @@ h2 {
 	font: 14px Arial, Garamond, Trebuchet MS, Verdana, Lucida Grande, Tahoma;	
 	font-size: 21px;
 	font-weight: bold;
-	background: /*#99e7ff*//*#C6C6C6*/#4CAF50;
-	border: 2px solid /*#99e7ff*//*#ccc*/#4CAF50;
+	background: /*#99e7ff*//*#C6C6C6*//*#4CAF50*/crimson;
+	border: 2px solid /*#99e7ff*//*#ccc*//*#4CAF50*/crimson;
 	color: white;
 	padding-left: 8px;
 	padding-top: 3px;
